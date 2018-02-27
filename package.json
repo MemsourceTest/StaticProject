@@ -1,0 +1,22 @@
+{
+  "name": "staticproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MemsourceTest@github.com/MemsourceTest/StaticProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MemsourceTest/StaticProject/issues"
+  },
+  "homepage": "https://github.com/MemsourceTest/StaticProject#readme",
+  "devDependencies": {
+    "datocms-client": "^0.3.44"
+  }
+}
